@@ -1,0 +1,5 @@
+name: agda-webserver
+include:
+  src
+depend:
+  agda-prelude
